@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Netotse
-- 👀 I’m interested in Energy
+- 👀 I’m interested in Energy management
 - 🌱 I’m currently learning how to use Home assistant for home automation
 - 💞️ I’m looking to collaborate on energy managment
 - 📫 How to reach me eneromhe@gmail.com
